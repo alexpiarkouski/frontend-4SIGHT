@@ -1,0 +1,117 @@
+{
+    "article_title": "Understanding Bond Valuation",
+    "major_minor_concepts": [
+        {
+            "major_concept": {
+                "id": "major-1",
+                "label": "Characteristics of a Regular Bond"
+            },
+            "minor_concepts": [
+                {
+                    "id": "minor-1",
+                    "label": "Coupon rate"
+                },
+                {
+                    "id": "minor-2",
+                    "label": "Maturity date"
+                },
+                {
+                    "id": "minor-3",
+                    "label": "Current price"
+                }
+            ]
+        },
+        {
+            "major_concept": {
+                "id": "major-2",
+                "label": "Bond Valuation in Practice"
+            },
+            "minor_concepts": [
+                {
+                    "id": "minor-4",
+                    "label": "Calculation of present value of future coupon payments"
+                },
+                {
+                    "id": "minor-5",
+                    "label": "Discount rate used is yield to maturity"
+                }
+            ]
+        },
+        {
+            "major_concept": {
+                "id": "major-3",
+                "label": "Coupon Bond Valuation"
+            },
+            "minor_concepts": [
+                {
+                    "id": "minor-6",
+                    "label": "Calculation of value of a coupon bond"
+                },
+                {
+                    "id": "minor-7",
+                    "label": "Factors in annual/semi-annual coupon payment and par value of the bond"
+                }
+            ]
+        },
+        {
+            "major_concept": {
+                "id": "major-4",
+                "label": "Zero-Coupon Bond Valuation"
+            },
+            "minor_concepts": [
+                {
+                    "id": "minor-8",
+                    "label": "Calculation of value of a zero-coupon bond"
+                },
+                {
+                    "id": "minor-9",
+                    "label": "Uses present value of face value"
+                }
+            ]
+        },
+        {
+            "major_concept": {
+                "id": "major-5",
+                "label": "Comparison of Bond and Stock Valuation"
+            },
+            "minor_concepts": [
+                {
+                    "id": "minor-10",
+                    "label": "Bonds and stocks are both valued using discounted cash flow analysis"
+                },
+                {
+                    "id": "minor-11",
+                    "label": "Bond valuation takes into account both coupon and principal components"
+                }
+            ]
+        },
+        {
+            "major_concept": {
+                "id": "major-6",
+                "label": "Reasons for Difference Between Bond Face Value and Market Value"
+            },
+            "minor_concepts": [
+                {
+                    "id": "minor-12",
+                    "label": "Changes in interest rates"
+                },
+                {
+                    "id": "minor-13",
+                    "label": "Company's credit rating"
+                },
+                {
+                    "id": "minor-14",
+                    "label": "Time to maturity"
+                },
+                {
+                    "id": "minor-15",
+                    "label": "Call provisions or other embedded options"
+                },
+                {
+                    "id": "minor-16",
+                    "label": "Whether the bond is secured or unsecured"
+                }
+            ]
+        }
+    ]
+}
