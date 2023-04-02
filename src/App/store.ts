@@ -34,7 +34,7 @@ const useStore = create<RFState>((set, get) => ({
     {
       id: 'major-1',
       type: 'mindmapmajor',
-      data: { label: 'Characteristics of a Regular Bond' },
+      data: { label: 'Bond Characteristics' },
       position: { x: 500, y: -150 },
     },
     {
@@ -58,7 +58,7 @@ const useStore = create<RFState>((set, get) => ({
     {
       id: 'major-2',
       type: 'mindmapmajor',
-      data: { label: 'Bond Valuation in Practice' },
+      data: { label: 'Bond Valuation' },
       position: { x: 1100, y: -100 },
     },
     {

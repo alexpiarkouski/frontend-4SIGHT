@@ -127,7 +127,7 @@ function Flow() {
     >
       <Controls showInteractive={false} />
       <Panel position="top-left" className="header">
-        React Flow Mind Map
+        4SIGHT
       </Panel>
     </ReactFlow>
   );
